@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CommandReader()
+comment0.text=\n\ create\ a\ new\ command\ reader\ to\ process\ commands\n
+comment1.params=word
+comment1.target=void\ addCommand(java.lang.String)
+comment1.text=\n\ add\ a\ command\ word.\ \ It\ must\ be\ only\ one\ word\ (no\ spaces\ allowed).\n\ @param\ word\ the\ new\ command\ word\n
+comment2.params=word
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\n\ check\ whether\ a\ word\ is\ a\ valid\ command\ word.\n\ @param\ word\ the\ word\ to\ check\n
+comment3.params=
+comment3.target=java.lang.String\ allCommands()
+comment3.text=\n\ Return\ a\ string\ of\ all\ valid\ command\ words,\ separated\ by\ spaces.\n\ @return\ a\ string\ containing\ all\ valid\ command\ words\n
+comment4.params=
+comment4.target=Command\ getCommand()
+comment4.text=\n\ read\ a\ command\ from\ the\ terminal\ and\ return\ it\ as\ a\ Command\ object\n\ @return\ the\ Command\ constructed\ from\ the\ user\ input\n
+numComments=5

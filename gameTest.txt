@@ -1,0 +1,13 @@
+help
+go left
+go south
+go north
+go east
+go west
+go north
+go south
+go
+asdjfhaweh adjf
+quit trying
+quit
+
